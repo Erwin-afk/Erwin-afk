@@ -19,7 +19,7 @@
 
 ### 🔗Links
 
- >Twitter: https://twitter.com/ervvun  
+ >Check my [Twitter](https://twitter.com/ervvun)  
  >Discord: 𝖤𝗋𝗐𝗂𝗇#4840
 
 
