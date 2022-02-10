@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-- Hey! Erwin
+- Hey! I'm Erwin.
+- Python, HTML, CSS.
+- Currently working on school projects.
+
+### Hobbies
+
+- Programming
+- Basketball
+- 3D modelling
+- Music
+
+You can reach me throught discord!
 
 <!--
 **Erwin-afk/Erwin-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
