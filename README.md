@@ -1,26 +1,26 @@
->### Hi there 👋
+### Hi there 👋
 
-- Hey! I'm Erwin.
-- Currently working on school projects.
+>- Hey! I'm Erwin.
+>- Currently working on school projects.
 
->### 💬Skills
+### 💬Skills
 
-- Python
-- HTML
-- CSS
-- And a little js
+>- Python
+>- HTML
+>- CSS
+>- And a little js
 
 ### ⚡Hobbies
 
-- Programming
-- Basketball
-- 3D modelling
-- Music
+>- Programming
+>- Basketball
+>- 3D modelling
+>- Music
 
 ### 🔗Links
 
- Twitter: https://twitter.com/ervvun  
- Discord: 𝖤𝗋𝗐𝗂𝗇#4840
+ >Twitter: https://twitter.com/ervvun  
+ >Discord: 𝖤𝗋𝗐𝗂𝗇#4840
 
 
 
