@@ -1,15 +1,28 @@
 ### Hi there 👋
 
 - Hey! I'm Erwin.
-- Python, HTML, CSS.
 - Currently working on school projects.
 
-### Hobbies
+### 💬Skills
+
+- Python
+- HTML
+- CSS
+- And a little js
+
+### ⚡Hobbies
 
 - Programming
 - Basketball
 - 3D modelling
 - Music
+
+### 🔗Links
+
+ Twitter: https://twitter.com/ervvun
+ Discord: 𝖤𝗋𝗐𝗂𝗇#4840
+
+
 
 You can reach me throught discord!
 
