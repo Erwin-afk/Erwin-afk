@@ -11,7 +11,7 @@
 >- HTML
 >- CSS
 >- C# (Currently learning)
->- And a little js
+>- And a little JS
 
 ### ⚡ `Hobbies`
 
