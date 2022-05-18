@@ -4,13 +4,13 @@
 
 >- Hey! I'm Erwin.
 >- Currently working on school projects.
->- Busy and tired...
 
 ### 💬 `Skills`
 
 >- Python
 >- HTML
 >- CSS
+>- C# (Currently learning)
 >- And a little js
 
 ### ⚡ `Hobbies`
@@ -18,6 +18,7 @@
 >- Programming
 >- Basketball
 >- 3D modelling
+>- Game developing
 >- Music
 
 ### 🔗 `Links`
