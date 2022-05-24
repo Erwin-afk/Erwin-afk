@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=erwin-afk&style=flat-square&color=blue" alt=""/>
 
 ![img](https://user-images.githubusercontent.com/78267674/153889753-c92973da-4489-49da-a1d1-6d67430e8384.gif)
 
