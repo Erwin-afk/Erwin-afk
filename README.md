@@ -1,4 +1,7 @@
 ![img](https://user-images.githubusercontent.com/78267674/153889753-c92973da-4489-49da-a1d1-6d67430e8384.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ### 👋 `Hi there` 👋
 
