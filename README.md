@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif)" width="100"/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -24,8 +24,8 @@
 ### 💬 `Skills`
 
 >- Python
->- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
->- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+>- HTML
+>- CSS
 >- C# (Currently learning)
 >- And a little JS
 
