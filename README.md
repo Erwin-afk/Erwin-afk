@@ -1,7 +1,5 @@
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif)" width="100"/>
-</div>
-<div id="badges">
+
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,8 +9,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=erwin-afk&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=erwin-afk&style=flat-square&color=blue" alt=""/>
 
 ![img](https://user-images.githubusercontent.com/78267674/153889753-c92973da-4489-49da-a1d1-6d67430e8384.gif)
 
