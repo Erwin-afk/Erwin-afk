@@ -12,7 +12,7 @@
 ### 👋 `Hi there` 👋
 
 >- Hey! I'm Erwin.
->- Currently working on school projects.
+>- Currently working on self projects.
 
 ### 💬 `Skills`
 
@@ -25,9 +25,9 @@
 ### ⚡ `Hobbies`
 
 >- Programming
->- Basketball
+>- Video editing
 >- 3D modelling
->- Game developing
+>- Game/Web development
 >- Music
 
 ### 🔗 `Links`
