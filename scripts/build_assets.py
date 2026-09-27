@@ -211,22 +211,22 @@ def header(c):
 # ── project cards ───────────────────────────────────────────────────────────
 
 PROJECTS = [
-    dict(slug="jogsigo", n="01", kind="mobile + web", title="JogsiGo", live=True, hint="open app ↗",
+    dict(slug="jogsigo", n="01", kind="mobile + web", title="JogsiGo", live=False, link=True, hint="open app ↗",
          desc=["Driving-school platform for Hungary: students",
                "book lessons, instructors run their day, and",
                "every payment invoices itself via Számlázz.hu."],
          tags=["Expo", "Supabase", "Stripe Connect", "Postgres RLS"]),
-    dict(slug="cleanvalet", n="02", kind="mobile + web", title="CleanValet", live=False, hint="private repo",
+    dict(slug="cleanvalet", n="02", kind="mobile + web", title="CleanValet", live=False, link=False, hint="private repo",
          desc=["Home-cleaning marketplace, three apps on one",
                "backend: homeowners book and pay, cleaners",
                "claim jobs from a realtime feed, admins run it."],
          tags=["React Native", "Supabase", "Stripe", "Twilio", "Sentry"]),
-    dict(slug="gymhero", n="03", kind="mobile", title="GymHero", live=False, hint="private repo",
+    dict(slug="gymhero", n="03", kind="mobile", title="GymHero", live=False, link=False, hint="private repo",
          desc=["Workouts become four stats (Power, Endurance,",
                "Agility, Discipline) that decide which hero",
                "you turn into. HealthKit sync, all on-device."],
          tags=["Expo", "TypeScript", "Zustand", "HealthKit"]),
-    dict(slug="portfolio", n="04", kind="web", title="Portfolio", live=True, hint="open site ↗",
+    dict(slug="portfolio", n="04", kind="web", title="Portfolio", live=True, link=True, hint="open site ↗",
          desc=["Where the dev work and the music live together.",
                "Static Next.js build, dark-first theme with no",
                "flash on load, driven by a single content file."],
@@ -246,7 +246,7 @@ def card(pr, c):
     p.append(text(W - pad, 34, status, c["muted"], 11.5, anchor="end"))
 
     p.append(text(pad, 72, pr["title"], c["text"], 22, bold=True))
-    p.append(text(W - pad, 71, pr["hint"], c["accent"] if pr["live"] else c["faint"], 11.5, anchor="end"))
+    p.append(text(W - pad, 71, pr["hint"], c["accent"] if pr["link"] else c["faint"], 11.5, anchor="end"))
     assert pad + w(pr["title"], 22) + 16 + w(pr["hint"], 11.5) < W - pad, pr["slug"] + ": title row overflows"
 
     for i, line in enumerate(pr["desc"]):
