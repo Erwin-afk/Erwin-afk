@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://ervin-nyisztor-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-visit-e9a23b?style=flat-square&labelColor=30363d"></a>
-  <a href="mailto:prodbyerwn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-say%20hi-e9a23b?style=flat-square&labelColor=30363d"></a>
+  <a href="mailto:ervinkaroly.nyisztor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-say%20hi-e9a23b?style=flat-square&labelColor=30363d"></a>
   <img alt="Open to freelance work" src="https://img.shields.io/badge/freelance-open-3fb950?style=flat-square&labelColor=30363d">
 </p>
 
@@ -43,5 +43,3 @@ I build mobile and web products end to end: the database, the auth, the payments
 ## Off the keyboard
 
 I produce music as **Fenzi**: [Spotify](https://open.spotify.com/artist/13ZWncwtfgIAqEkS2cvF8z) · [YouTube](https://www.youtube.com/@prodfenzi)
-
-Got a project in mind? [prodbyerwn@gmail.com](mailto:prodbyerwn@gmail.com)
