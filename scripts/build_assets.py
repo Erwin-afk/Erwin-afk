@@ -1,6 +1,6 @@
 """Generate the profile README SVGs (header + project cards), dark and light.
 
-    pip install fonttools brotli
+    pip install -r scripts/requirements.txt
     python scripts/build_assets.py
 
 Edit INFO (header) or PROJECTS (cards) below, then rerun. JetBrains Mono is
